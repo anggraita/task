@@ -7,3 +7,6 @@ Tag yang digunakan di website ini adalah HTML, HTML5, CSS dan CSS3. Tampilam web
 
 About Me :
 Anggraito Laras. Biasa di panggil Anggi. Memiliki Basic di IT dan pernah bekerja sebagai Front End Developer. Sekarang sedang mengikuti bootcamp di Hacktiv8 untuk Phase 0 dan berharap bisa terus samapi nanti goal di Phase 3. Wish me Luck.
+
+Future Plans : 
+Website 
